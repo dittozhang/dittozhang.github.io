@@ -3,6 +3,5 @@
 icon: fas fa-info-circle
 order: 4
 ---
-
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hello World, 我是 D1tt0(Ditto)<br>
+目前從事資安相關職業，喜愛資安，偏好**紅隊**與**滲透測試**。

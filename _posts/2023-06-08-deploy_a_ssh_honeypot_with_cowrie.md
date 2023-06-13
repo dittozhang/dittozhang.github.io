@@ -1,5 +1,5 @@
 ---
-title: 自己來架一個 SSH Honeypot
+title: 用 Cowrie 來架 SSH Honeypot
 date: 2023-6-13 17:15:00 +0800
 categories: [Implement]
 tags: [implement, honeypot, cowrie]

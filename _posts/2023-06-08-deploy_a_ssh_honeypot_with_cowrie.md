@@ -137,10 +137,10 @@ Linux 訓練唯一推薦鳥哥[^vbird-linux_basic_train]，把前 10 章學完�
 
 # Reference
 
-[^wikipedia-honeypot]: [Wikipedia-Honeypot(computing)]([https://en.wikipedia.org/wiki/Honeypot_(computing)](https://en.wikipedia.org/wiki/Honeypot_(computing)))
+[^wikipedia-honeypot]: [Wikipedia-Honeypot(computing)](https://en.wikipedia.org/wiki/Honeypot_(computing))
 
 [^cowrie-documentation]: [Cowrie-Documentation](https://cowrie.readthedocs.io/en/latest/README.html#documentation)
 
-[^wikipekia-sandbox]: [Wikipekia-Sandbox]([https://en.wikipedia.org/wiki/Sandbox_(computer_security)](https://en.wikipedia.org/wiki/Sandbox_(computer_security)))
+[^wikipekia-sandbox]: [Wikipekia-Sandbox](https://en.wikipedia.org/wiki/Sandbox_(computer_security))
 
 [^vbird-linux_basic_train]: [蔡德明，鳥哥私房菜-Linux 基礎學習篇訓練教材 - 目錄彙整](https://linux.vbird.org/linux_basic_train/centos7/unit01.php)

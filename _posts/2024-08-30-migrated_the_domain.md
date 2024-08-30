@@ -17,7 +17,7 @@ tags: [Announcement]
 
 而原本的 d1tt0.net 上的資源會逐漸轉移過來，未來也不續約了
 
-## 為什麼會用 d1tt0 呢?
+## 那以前為什麼用 d1tt0 呢?
 
 因為過去在註冊 username 時，ditto 常常都已經被註冊走了，所以就改成 d1tt0
 

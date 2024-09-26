@@ -4,4 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 Hello World, 我是 D1tt0(Ditto)<br>
-目前從事資安相關職業，喜愛資安，偏好**紅隊**與**滲透測試**。
+駭客社群 UCCU Hacker 成員、資安工程師，偏好 **Web Security** 與 **Penetration Test**。

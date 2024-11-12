@@ -99,8 +99,8 @@ tags: [implement, flowiseai, prompt]
 ---
 
 ## Reference
-[^website-trans-enby-town]: [Trans Enby Town](https://trans.enby.town/notice/AUjhC6QLd2dQzsVXe4)
+[^website-trans-enby-town]: [Trans Enby Town. The Conversation](https://trans.enby.town/notice/AUjhC6QLd2dQzsVXe4)
 [^website-reddit-chatgpt]: [Reddit. ChatGPT/Grandma Exploit](https://www.reddit.com/r/ChatGPT/comments/12sn0kk/grandma_exploit/)
 [^website-openai-safety]: [OpenAI. Safety & responsibility](https://openai.com/safety/)
-[^website-openai-4o]: [GPT-4o System Card](https://openai.com/index/gpt-4o-system-card/)
+[^website-openai-4o]: [OpenAI. GPT-4o System Card](https://openai.com/index/gpt-4o-system-card/)
 [^website-0din]: [0Din. ChatGPT-4o Guardrail Jailbreak: Hex Encoding for Writing CVE](https://0din.ai/blog/chatgpt-4o-guardrail-jailbreak-hex-encoding-for-writing-cve-exploits)

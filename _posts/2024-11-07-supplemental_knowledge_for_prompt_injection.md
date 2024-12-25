@@ -2,7 +2,7 @@
 title: Prompt Injection 知識補充
 date: 2024-11-07 23:00:00 +0800
 categories: [Implement]
-tags: [implement, flowiseai, prompt]
+tags: [implement, flowiseai, prompt, series]
 ---
 本文是應 <文章還沒發表，再等我一下下> 的知識補充而生<br>
     為避免文章內容太過冗長，所以獨立發表一篇

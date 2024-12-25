@@ -2,7 +2,7 @@
 title: 透過 FlowiseAI 實作 AI Bot
 date: 2024-9-25 23:00:00 +0800
 categories: [Implement]
-tags: [implement, flowiseai]
+tags: [implement, flowiseai, series]
 ---
 # ~~兄弟~~ 我回來啦
 

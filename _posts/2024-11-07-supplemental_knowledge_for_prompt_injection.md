@@ -4,7 +4,7 @@ date: 2024-11-07 23:00:00 +0800
 categories: [Implement]
 tags: [implement, flowiseai, prompt, series]
 ---
-本文是應 <文章還沒發表，再等我一下下> 的知識補充而生<br>
+本文是應 [HITCON CMT 2024 UCCU AI Challenge 關卡設計分享(上篇)](https://blog.ditto.tw/posts/hitcon_cmt_2024_uccu_ai_challenge_level_design_insights_part_1/) 的知識補充而生<br>
     為避免文章內容太過冗長，所以獨立發表一篇
 
 為了靈活調整 ChatGPT 的模型，本篇的對話都是在 FlowiseAI 裡實作的<br>
@@ -92,7 +92,7 @@ tags: [implement, flowiseai, prompt, series]
     - 適時的在 Exploit 中添加情勒的元素，可能會讓它更願意分享祕密給你
 
 <br><br><br>
-下一篇 【AI Challenge 題目分享】也馬上就要出爐了
+也歡迎各位去閱讀這個系列文章的本體【[HITCON CMT 2024 UCCU AI Challenge 關卡設計分享(上篇)](https://blog.ditto.tw/posts/hitcon_cmt_2024_uccu_ai_challenge_level_design_insights_part_1/)】
 
 各位掰掰👋
 

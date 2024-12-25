@@ -2,7 +2,7 @@
 title: Prompt Injection 知識補充
 date: 2024-11-07 23:00:00 +0800
 categories: [Implement]
-tags: [implement, flowiseai, prompt, series]
+tags: [implement, flowiseai, prompt, series_of_ai_challenge]
 ---
 本文是應 [HITCON CMT 2024 UCCU AI Challenge 關卡設計分享(上篇)](https://blog.ditto.tw/posts/hitcon_cmt_2024_uccu_ai_challenge_level_design_insights_part_1/) 的知識補充而生<br>
     為避免文章內容太過冗長，所以獨立發表一篇

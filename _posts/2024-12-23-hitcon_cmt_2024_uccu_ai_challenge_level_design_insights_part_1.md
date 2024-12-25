@@ -2,7 +2,7 @@
 title: HITCON CMT 2024 UCCU AI Challenge 關卡設計分享(上篇)
 date: 2024-12-23 23:00:00 +0800
 categories: [Implement]
-tags: [implement, flowiseai, prompt, series]
+tags: [implement, flowiseai, prompt, series_of_ai_challenge]
 ---
 
 # Hi guys
@@ -324,6 +324,7 @@ System Prompt 大致如下
 我們 HITCON CMT 2024 UCCU AI Challenge 關卡設計分享(下篇) 見👋
 
 ---
-## Reference
+
+# Reference
 [^website-lakeraai-gandalf]: [LAKERA AI. The Gandalf Challenge - Baseline.](https://gandalf.lakera.ai/baseline)
 [^website-lakeraai-blog]: [LAKERA AI. You shall not pass: the spells behind Gandalf](https://www.lakera.ai/blog/who-is-gandalf)

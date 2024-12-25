@@ -302,7 +302,7 @@ info: 實際上，雖然 Prompt 寫的是很厲害，但實際運行後還是發
 
 所以這不是拿大砲打小鳥，輸入檢查不單只是比對特定字串，而是延伸成為使用者意圖的審核機制，而輸出檢查也不光是比對密碼洩漏，還包括編碼還有隱藏訊息，雖然效果還有待加強…
 
-## 概念來源
+### 概念來源
 ![Desktop View](/assets/img/2024-12-23-hitcon_cmt_2024_uccu_ai_challenge_level_design_insights_part_1/018.png){: .normal}
 有玩過 LAKERA AI 的甘道夫挑戰[^website-lakeraai-gandalf]的人應該會注意到，Prompt Injection 的關卡有不少部分都有甘道夫挑戰的影子，這不是錯覺!的確最初的概念來源就是來自甘道夫挑戰，也多虧 LAKERA 官方發表文章[^website-lakeraai-blog]說明了背後的故事與機制，雖然只有粗略描述架構與解法，但還是對這次的挑戰設計起到了關鍵作用，這也是筆者想要發表【關卡設計分享】的原因，期許這篇分享未來也能成為某個人的養分，設計出更加優秀的架構
 

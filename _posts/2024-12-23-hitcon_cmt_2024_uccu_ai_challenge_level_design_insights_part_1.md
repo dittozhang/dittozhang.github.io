@@ -321,7 +321,7 @@ System Prompt 大致如下
 
 還沒結束，還有下篇喔
 
-我們 HITCON CMT 2024 UCCU AI Challenge 關卡設計解析(下篇) 見👋
+我們 [HITCON CMT 2024 UCCU AI Challenge 關卡設計解析(下篇)](https://blog.ditto.tw/posts/hitcon_cmt_2024_uccu_ai_challenge_level_design_insights_part_2/) 見👋
 
 ---
 

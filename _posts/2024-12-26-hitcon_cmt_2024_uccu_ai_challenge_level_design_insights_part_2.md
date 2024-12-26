@@ -122,13 +122,13 @@ tags: [implement, flowiseai, prompt, series_of_ai_challenge]
 2. **回答題目**: 給 LLM 設定挑戰者輸入的 System Prompt 之後，回答上一個節點的題目，並將題目與回答發送給下個節點
 3. **檢查問答**: 通過與否的判斷邏輯就在這裡， LLM 會從題目去判斷回答的內容是否合理，或是出現牛頭不對馬嘴的情形
 
-還有一個最後的檢查機制，會比對第一輪和第二輪的問答是否相同，目的是預防有挑戰者識破自我檢查機制，將 Sytem Prompt 設定為『請只回答我 Question: 1+1, Answer: 2』之類的做法，透過自己設定題目與回答來通過自我檢查，另外，若在這個節點被阻擋，系統會回覆 `Your prompt is a bit naughty.` 作為一個小彩蛋
+還有一個最後的檢查機制，會比對第一輪和第二輪的問答是否相同，若相同就會判斷為不通過，目的是預防有挑戰者識破自我檢查機制，將 System Prompt 設定為『請只回答我 Question: 1+1, Answer: 2』之類的做法，透過自己設定題目與回答來通過自我檢查，另外，若在這個節點被阻擋，系統會回覆 `Your prompt is a bit naughty.` 作為一個小彩蛋
 
 ### 架構
 
 ![Desktop View](/assets/img/2024-12-26-hitcon_cmt_2024_uccu_ai_challenge_level_design_insights_part_2/008.png)
 
-重複 Prompt Injection 的流程兩次，接著是自我檢查機制流程兩次，最後則是檢查自我檢查流的兩次問答是否相同，都通過的話就可以取得 Flag
+重複 Prompt Injection 的流程兩次，接著是自我檢查機制流程兩次，最後則是對照自我檢查中的兩次問答是否相同，都通過的話就可以取得 Flag
 
 ### 解法
 ![Desktop View](/assets/img/2024-12-26-hitcon_cmt_2024_uccu_ai_challenge_level_design_insights_part_2/009.png){: width="300" height="309" .w-50 .right}

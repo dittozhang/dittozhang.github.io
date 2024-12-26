@@ -1,5 +1,5 @@
 ---
-title: HITCON CMT 2024 UCCU AI Challenge 關卡設計分享(上篇)
+title: HITCON CMT 2024 UCCU AI Challenge 關卡設計解析(上篇)
 date: 2024-12-23 23:00:00 +0800
 categories: [Implement]
 tags: [implement, flowiseai, prompt, series_of_ai_challenge]
@@ -315,13 +315,13 @@ System Prompt 大致如下
 
 ### 概念來源
 ![Desktop View](/assets/img/2024-12-23-hitcon_cmt_2024_uccu_ai_challenge_level_design_insights_part_1/018.png){: .normal}
-有玩過 LAKERA AI 的甘道夫挑戰[^website-lakeraai-gandalf]的人應該會注意到，Prompt Injection 的關卡有不少部分都有甘道夫挑戰的影子，這不是錯覺!的確最初的概念來源就是來自甘道夫挑戰，也多虧 LAKERA 官方發表文章[^website-lakeraai-blog]說明了背後的故事與機制，雖然只有粗略描述架構與解法，但還是對這次的挑戰設計起到了關鍵作用，這也是筆者想要發表【關卡設計分享】的原因，期許這篇分享未來也能成為某個人的養分，設計出更加優秀的架構
+有玩過 LAKERA AI 的甘道夫挑戰[^website-lakeraai-gandalf]的人應該會注意到，Prompt Injection 的關卡有不少部分都有甘道夫挑戰的影子，這不是錯覺!的確最初的概念來源就是來自甘道夫挑戰，也多虧 LAKERA 官方發表文章[^website-lakeraai-blog]說明了背後的故事與機制，雖然只有粗略描述架構與解法，但還是對這次的挑戰設計起到了關鍵作用，這也是筆者想要發表【關卡設計解析】的原因，期許這篇解析未來也能成為某個人的養分，設計出更加優秀的架構
 
 <br><br><br>
 
 還沒結束，還有下篇喔
 
-我們 HITCON CMT 2024 UCCU AI Challenge 關卡設計分享(下篇) 見👋
+我們 HITCON CMT 2024 UCCU AI Challenge 關卡設計解析(下篇) 見👋
 
 ---
 
